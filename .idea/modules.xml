@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/caprice.iml" filepath="$PROJECT_DIR$/caprice.iml" />
-      <module fileurl="file://$PROJECT_DIR$/caprice-common/capricecommon.iml" filepath="$PROJECT_DIR$/caprice-common/capricecommon.iml" />
-    </modules>
-  </component>
-</project>
